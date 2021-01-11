@@ -1,13 +1,24 @@
-# how-to-join-a-guild
-In this Page i will be telling you to how to join a guild in MLH Local Hack day : Build
+# set-up-a-personal-github-page
+In this Page i will be telling you to how to how to set up your personal github page
 
 Hello People!
- to Join a Community guild
+ to Create a Personal Github Page
  
- > Go to this Link : http://hackp.ac/JoinAGuild
+ > Open Github
  
- > Fill the Form : Email Address, Choose which Guild you wanna Join, Enter your Discord Username
+ > Login to your Account
  
- > Yayy! You Joined the Guild
+ > Click on button "Create Repository"
+ 
+ > Write the name of your Page
+ 
+ > Select if you want to introduce "git.ignore" or not
+ 
+ > Select if you want to introduce "Readme" file or not
+ 
+ > Click on Create
+ 
+ > Your Page is Ready!
+ 
  
  Happy Learning! :)
